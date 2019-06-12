@@ -6,5 +6,23 @@
 </head>
 <body>
 <h1>My Recipes! zzz</h1>
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Description</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="recipe : ${recipes}">
+        <!--
+        "?" - is a "null safe operator" ??
+        <td th:text="${owner?.id}">1</td>
+        -->
+        <td th:text="${recipe.id}">123</td>
+        <td th:text="${recipe.description}">Tasty Goodness</td>
+    </tr>
+    </tbody>
+</table>
 </body>
 </html>
