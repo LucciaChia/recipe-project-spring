@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/springframeworkguru/spring5-mvc-rest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/LucciaChia/tutorials.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\lukr\IdeaProjects\SpringUdemyCourse" />
