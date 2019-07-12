@@ -26,4 +26,7 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\lukr\IdeaProjects\SpringUdemyCourse" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="MANAGE_IGNORE_FILES" value="true" />
+  </component>
 </application>
